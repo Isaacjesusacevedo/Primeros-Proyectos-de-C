@@ -1,0 +1,14 @@
+C:\Users\isa\Documents\Codigos\proyecto 3\bin\Debug\net8.0\proyecto 3.exe
+C:\Users\isa\Documents\Codigos\proyecto 3\bin\Debug\net8.0\proyecto 3.deps.json
+C:\Users\isa\Documents\Codigos\proyecto 3\bin\Debug\net8.0\proyecto 3.runtimeconfig.json
+C:\Users\isa\Documents\Codigos\proyecto 3\bin\Debug\net8.0\proyecto 3.dll
+C:\Users\isa\Documents\Codigos\proyecto 3\bin\Debug\net8.0\proyecto 3.pdb
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.AssemblyInfoInputs.cache
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.AssemblyInfo.cs
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.csproj.CoreCompileInputs.cache
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.dll
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\refint\proyecto 3.dll
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.pdb
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\proyecto 3.genruntimeconfig.cache
+C:\Users\isa\Documents\Codigos\proyecto 3\obj\Debug\net8.0\ref\proyecto 3.dll

@@ -1,0 +1,14 @@
+C:\Users\isa\Documents\Codigos\Proyecto 4\bin\Debug\net8.0\Proyecto 4.exe
+C:\Users\isa\Documents\Codigos\Proyecto 4\bin\Debug\net8.0\Proyecto 4.deps.json
+C:\Users\isa\Documents\Codigos\Proyecto 4\bin\Debug\net8.0\Proyecto 4.runtimeconfig.json
+C:\Users\isa\Documents\Codigos\Proyecto 4\bin\Debug\net8.0\Proyecto 4.dll
+C:\Users\isa\Documents\Codigos\Proyecto 4\bin\Debug\net8.0\Proyecto 4.pdb
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.AssemblyInfoInputs.cache
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.AssemblyInfo.cs
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.csproj.CoreCompileInputs.cache
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.dll
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\refint\Proyecto 4.dll
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.pdb
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\Proyecto 4.genruntimeconfig.cache
+C:\Users\isa\Documents\Codigos\Proyecto 4\obj\Debug\net8.0\ref\Proyecto 4.dll
